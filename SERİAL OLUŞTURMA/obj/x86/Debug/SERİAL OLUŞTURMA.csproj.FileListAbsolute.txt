@@ -1,0 +1,23 @@
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\bin\Debug\SERİAL OLUŞTURMA.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\bin\Debug\SERİAL OLUŞTURMA.pdb
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL_OLUŞTURMA.Form1.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL_OLUŞTURMA.Properties.Resources.resources
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.exe
+C:\Users\murat\Desktop\ \3 C# HER ŞEY\1 PROJELERİM\SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\2 İNCELENECEKLER\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\2 İNCELENECEKLER\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\2 İNCELENECEKLER\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\bin\Debug\SERİAL OLUŞTURMA.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\2 İNCELENECEKLER\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\bin\Debug\SERİAL OLUŞTURMA.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\2 İNCELENECEKLER\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL_OLUŞTURMA.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\2 İNCELENECEKLER\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL_OLUŞTURMA.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\2 İNCELENECEKLER\7 SERİAL OLUŞTURMA\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\68 Serial Oluşturma\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.exe
+E:\04 - Yazılım\04 - Form Projeleri\68 Serial Oluşturma\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.pdb
+E:\04 - Yazılım\04 - Form Projeleri\68 Serial Oluşturma\SERİAL OLUŞTURMA\bin\Debug\SERİAL OLUŞTURMA.exe
+E:\04 - Yazılım\04 - Form Projeleri\68 Serial Oluşturma\SERİAL OLUŞTURMA\bin\Debug\SERİAL OLUŞTURMA.pdb
+E:\04 - Yazılım\04 - Form Projeleri\68 Serial Oluşturma\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL_OLUŞTURMA.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\68 Serial Oluşturma\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL_OLUŞTURMA.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\68 Serial Oluşturma\SERİAL OLUŞTURMA\obj\x86\Debug\SERİAL OLUŞTURMA.csproj.GenerateResource.Cache
